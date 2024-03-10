@@ -18,7 +18,3 @@ Simply import execute_shell_command in your Python script and call execute_shell
 For sample please refer [execute_shell_command_reference.py](execute_shell_command_reference.py) script.
 
 
-## Author Name
-
-[Deepak Khanna](https://github.com/deepakkhanna18)
-
