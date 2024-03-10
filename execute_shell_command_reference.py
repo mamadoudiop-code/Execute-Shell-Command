@@ -3,7 +3,7 @@ import sys
 
 if __name__ == '__main__':
     #Shell command to execute
-    command ='echo Khanna'
+    command ='echo mamadou'
 
     #Call execute_shell_command function from execute_shell_command.py script, result will have result return from shell command, status will have status of that command
     result, status = shell.execute_shell_command(command)
